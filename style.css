@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(chepauck\ stadium.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment:  fixed;
+}
+
+nav{
+    background-color: yellow;
+    color: navy;
+    padding: 30px;
+    font-size: x-large;
+}
+ul,h1,li{
+    display: inline;
+}
+ul{
+    margin-bottom: 40%;
+    
+}
+li{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-style: italic;
+    
+}
+li:hover{
+    color: black;
+    cursor: pointer;
+}
+div{
+    background-image: url(Chennai\ logo.png);
+    background-size: contain;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-attachment: 100%;
+    color: aqua;
+    background-color: blue;
+    display: block;
+    padding: 20px;
+     margin: 2%;
+}
+p{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-style: oblique;
+}
